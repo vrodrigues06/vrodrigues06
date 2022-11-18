@@ -14,4 +14,18 @@
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="Html"> 
 </div>
 
+<br/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vrodrigues06&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<br/>
+<br/>
+
+#### pt-br - Sobre Mim  
+
+<p> tenho 25 anos, moro no Brasil e atualmente estou estudando para me tornar um Desenvolvedor Fullstack, através dos cursos B7Web e Origamid para mudar de profissão, pretendo começar minha faculdade em 'Desenvolvimento de sistemas' em 2023. 
+
+
+#### en-us -  About me
+
+<p> I'm 25 years old, from Brazil and currently i'm studying to became a Fullstack Developer, through the courses B7web and Origamid to change my profession, i intend to start my college in 'Systems development' in 2023, also i'm studying the Mairo Vergara's course to reach the fluence of English. 
